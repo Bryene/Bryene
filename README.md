@@ -1,14 +1,17 @@
 
-### <h1 align="center">Eu sou a Bryene, bem-vindo ao meu GitHub. 👩🏻‍💻</h1>
+### <h1 align="center">Olá, eu sou a Bryene. Bem-vindo ao meu GitHub. 👩🏻‍💻</h1>
   <p align="center">Estudo Sistemas de Informação na <a href="https://www.macae.rj.gov.br/femass/conteudo/titulo/apresentacao/"><b>FEMASS</b></a>
   
 ##
+
 <div align="center">
+
   <a href="https://github.com/bryene">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bryene&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryene&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
   
+</div>
+
 <div align="center" valign="top"><br>
 
 ##
@@ -19,7 +22,6 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-
 <div align="center">
   
 </div>
@@ -33,7 +35,9 @@
   
   
 <div align="center">
+   
   
-  ![Snake animation](https://github.com/Bryene/Bryene/blob/output/github-contribution-grid-snake.svg)
-  
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryene&layout=compact&theme=tokyonight) -->
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 </div>
