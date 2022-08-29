@@ -1,5 +1,5 @@
-###   <h1 align="center">Oi, Tudo bem? Eu sou a <a href="https://www.linkedin.com/in/bryene-fernandes-70457a1a4/"><i>Bryene</i></a> 😃️</h1>
-  <p align="center">Estudo Sistemas de Informação na <a href="https://www.macae.rj.gov.br/femass/conteudo/titulo/apresentacao/"><i>FEMASS</i></a>.  
+### <h1 align="center">Eu sou a Bryene, bem-vindo ao meu Github. 👩🏻‍💻</h1>
+  <p align="center">Estudo Sistemas de Informação na <a href="https://www.macae.rj.gov.br/femass/conteudo/titulo/apresentacao/"><i>FEMASS</i></a>.
 
 ##
 <div align="center">
@@ -31,5 +31,4 @@
   
     
     
-    ![Snake animation](https://github.com/Bryene/Bryene/blob/output/github-contribution-grid-snake.svg)
-</div>
+
