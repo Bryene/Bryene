@@ -1,6 +1,6 @@
 
 ### <h1 align="center">Olá, eu sou a Bryene. Bem-vindo ao meu GitHub. 👩🏻‍💻</h1>
-  <p align="center">Estudo Sistemas de Informação na <a href="https://www.macae.rj.gov.br/femass/conteudo/titulo/apresentacao/"><b>FEMASS</b></a>
+  <p align="center">Formada em Sistemas de Informação na <a href="https://www.macae.rj.gov.br/femass/conteudo/titulo/apresentacao/"><b>FEMASS</b></a>
   
 ##
 
